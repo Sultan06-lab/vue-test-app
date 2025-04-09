@@ -1,4 +1,4 @@
 # Vue 3 + TypeScript + Vite
 Для запуска приложения выполните команды:   
-npm i
+npm i и
 npm run dev
